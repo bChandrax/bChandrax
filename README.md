@@ -35,7 +35,7 @@ guest@biust-terminal:~$ cat skills_matrix.json
 |---|---|
 | **Languages** | C, C++, JavaScript (ES6+), SQL, Visual Basic |
 | **Web Tech** | React, Next.js, HTML5, CSS3, Keycloakify |
-| **Dev Tools** | VS Code, Git, GitHub, Keycloak, Vite |
+| **Dev Tools** | VS Code, Git, GitHub, Keycloak, Vite, Firebase |
 | **Architectures** | Procedural, OOP, UI/UX Prototyping |
 
 ---
